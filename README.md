@@ -28,7 +28,3 @@ Studying Computer Science and Engineering at Independent University, Bangladesh 
 - **LinkedIn:** [linkedin.com/in/syed-abdullah-al-muyeed-62b840306/](https://www.linkedin.com/in/syed-abdullah-al-muyeed-62b840306/)
 
 Excited about AI and machine learning? Me too! Let's chat and share insights! 🚀✨
-
----
-
-Feel free to customize and add your flair!
