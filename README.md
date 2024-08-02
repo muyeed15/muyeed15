@@ -9,7 +9,7 @@ Studying Computer Science and Engineering at Independent University, Bangladesh 
 - **Languages:** Python 🐍, Java ☕, Kotlin 📱, dabbling in Go 🦦.
 - **Technologies:** JavaFX, Tkinter, HTML, CSS, MySQL 💾.
 - **Apps:** Built a bunch, including Android apps 📲 and desktop applications 🖥️.
-- **OS:** Linux 🐧 and Windows 💻.
+- **OS:** Linux 🐧, Windows 💻 and macOS 🍏.
 - **Scripts:** Bash and Batch 🖥️.
 - **Focus:** Beefing up backend skills 🌐, exploring AI and machine learning, focusing on Android app development 📱, and building desktop applications 🖥️.
 
